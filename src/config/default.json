@@ -1,0 +1,6 @@
+{
+  "App": {
+    "name": "Training",
+    "port": 5000
+  }
+}
